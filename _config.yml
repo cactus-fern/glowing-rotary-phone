@@ -1,0 +1,27 @@
+# Site settings
+
+title: Glowing Rotary Phone
+email: your-email@example.com
+description: >-
+  Welcome! This is just a place to display my collection of digital planner widgets that I've created for myself.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: cactus-fern
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+# Exclude from processing.
+# The following items will not be processed, by default.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

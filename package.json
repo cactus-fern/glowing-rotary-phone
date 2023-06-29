@@ -1,0 +1,19 @@
+{
+  "name": "notion-widgets",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint assets/js/**/* --ext .js",
+    "check": "npx prettier --check .",
+    "pretty": "npx prettier --write ."
+  },
+  "keywords": [],
+  "author": "cactus-fern",
+  "license": "",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "2.8.8"
+  }
+}

@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+node_modules/
+README.md
+# Prettier didn't know how to correctly format these files if they have Jekyll front matter, so I'm excluding them
+*.html
+assets/**/*.css
